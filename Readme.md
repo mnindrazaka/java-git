@@ -2,4 +2,4 @@
 
 Project latihan git dan github
 
-Awesome
+Awesome Sangat
