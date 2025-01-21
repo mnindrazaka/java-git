@@ -16,5 +16,9 @@ public class Main {
         if (x > 5) {
             System.out.println("Hello World2");
         }
+
+        int age = 50;
+        System.out.println("ini adalah umur edo yaitu : "+ age);
     }
+
 }
