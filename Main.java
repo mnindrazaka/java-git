@@ -1,3 +1,12 @@
+/*
+ *  git init => Membuat repo baru
+ *  git add => menandai file untuk dicommit
+ *  git commit => commit / menyimpan perubahan
+ *  git log => melihat log commit
+ *  git status => cek perubahan file yang akan di commit
+ * 
+ */
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World");
